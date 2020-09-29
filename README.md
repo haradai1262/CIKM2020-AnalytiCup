@@ -21,6 +21,19 @@ $ sh solution.sh
 
 # results
 
+- 3rd palce / 200+ participants
+- Final leaderboard of the top six teams (semi-finalists)
+  - competition page: https://competitions.codalab.org/competitions/25276#results
+
+| Rank |  Team               |  MLSE      |
+| ---- | ----                | ----       |
+|  1   |  vinayaka           |  0.120551  |
+|  2   |  mc-aida            |  0.121094  |
+|  3   |  myaunraitau (ours) |  0.136239  |
+|  4   |  parklize           |  0.149997  |
+|  5   |  JimmyChang         |  0.156876  |
+|  6   |  Thomary            |  0.169047  |
+
 
 # folder structure
 
