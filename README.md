@@ -1,6 +1,8 @@
 # CIKMAnalytiCup-2020 COVID-19 Retweet Prediction Challenge
 
-# overview of my solution
+# overview
+
+![overview](./_figure/overview.png)
 
 # usage
 
