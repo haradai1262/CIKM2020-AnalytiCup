@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints
+tmp
+_tmp
+notebook_output
+__pycache__/
+.vscode/
+secrets/
+secret/
+
+data/
+starter_kit/
+submissions/
+submission_templates/
