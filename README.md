@@ -1,25 +1,25 @@
 # CIKMAnalytiCup-2020 COVID-19 Retweet Prediction Challenge
 
-# overview
+## overview
 
 ![overview](./_figure/overview.png)
 
-# usage
+## usage
 
-## download data (TweetsCOV19)
+### download data (TweetsCOV19)
 
 - register codelab and join "COVID-19 Retweet Prediction Challenge"
   - https://competitions.codalab.org/competitions/25276
 - download data (https://competitions.codalab.org/competitions/25276#participate-get_starting_kit)
 
-## run
+### run
 
 ```
 $ cd ./run
 $ sh solution.sh
 ```
 
-# results
+## results
 
 - 3rd palce / 200+ participants
 - Final leaderboard of the top six teams (semi-finalists)
@@ -35,7 +35,7 @@ $ sh solution.sh
 |  6   |  Thomary            |  0.169047  |
 
 
-# folder structure
+## folder structure
 
 ```
 CIKMAnalytiCup-2020
