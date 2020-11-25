@@ -79,3 +79,7 @@ CIKMAnalytiCup-2020
 ├── submission # save submission files
      └── (submission_name).zip
 ```
+
+## Contact
+
+- Email: daichi.takehara0730@gmail.com (Daichi Takehara)
